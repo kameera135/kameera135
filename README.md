@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kameera Hemachandra</h1>
+<h1 align="center">Hi 👋, I'm Kameera Randima Hemachandra</h1>
 <h3 align="center">A passionate mobile and web application developer from Sri Lanka</h3>
 
 - 🔭 I’m currently working on **Safe Drive - Mobile Application**
