@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Solutions**
 
 - 📫 How to reach me **kameera.annites@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1E-vApX2w_0LsHa1F0a2bkVxOpQUxonl1/view?usp=drive_link](https://drive.google.com/file/d/1E-vApX2w_0LsHa1F0a2bkVxOpQUxonl1/view?usp=drive_link)
 
-- ⚡ Fun fact **Developments kill my sleep**
+- ⚡ Fun fact **Developments kill my sleep and I love problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
