@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Safe Drive - Mobile Application**
 
-- 🌱 I’m currently learning **Angular and mongoDb**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Python**
 
