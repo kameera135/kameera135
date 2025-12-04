@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **.Net , Angular and Python**
 
-- 📫 How to reach me **kameera.annites@gmail.com**
+- 📫 How to reach me **kameerarandima@gmail.com**
 
 - 📄 Know about my experiences [Kameera_Hemachandra_CV](https://drive.google.com/file/d/1O350u5E0eE_1fpePU0s1Ju6w-qS7WqNi/view?usp=sharing)
 
